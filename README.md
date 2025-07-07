@@ -41,8 +41,8 @@ This project demonstrates:
 
 ## 📸 Preview
 
-> ![Craby Screenshot](#)  
-> *(Insert screenshot here if hosted)*
+>   
+> 
 
 
 ## 📄 License
