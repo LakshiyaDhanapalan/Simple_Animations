@@ -53,6 +53,12 @@ This project is open-source and free to use for educational and non-commercial p
 
 **Lakshiya Dhanapalan**  
 Made with ❤️ and CSS.
+You can clone this project using the following command:
+
+bash
+Copy
+Edit
+git clone https://github.com/LakshiyaDhanapalan/Simple_Animations.git
 
 
 
