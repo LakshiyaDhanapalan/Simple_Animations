@@ -41,8 +41,7 @@ This project demonstrates:
 
 ## 📸 Preview
 
->   
-> 
+>   https://github.com/LakshiyaDhanapalan/Simple_Animations/blob/main/crab_image.jpg
 
 
 ## 📄 License
